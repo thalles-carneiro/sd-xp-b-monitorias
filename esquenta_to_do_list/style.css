@@ -1,0 +1,19 @@
+.card-filmes-disponiveis {
+  border: 1px solid black;
+  display: inline-block;
+  font-size: 12px;
+  padding: 5px;
+  width: 30%;
+}
+
+.card-filmes-disponiveis img {
+  width: 100%;
+}
+
+.blue {
+  color: blue;
+}
+
+.underline {
+  text-decoration: underline;
+}
